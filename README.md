@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @riddhimaa13
-- 👀 I’m currently interested in FULL STACK WEB DEVELOPMENT.
+- 👀 I’m currently interested in FULL web DEVELOPMENT.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: My email: riddhiagarwal1302@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: Just a loner girl
+- ⚡ Fun fact: 
 
 <!---
 riddhimaa13/riddhimaa13 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
