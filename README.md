@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: My email: riddhiagg1302@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Eat, Sleep, Code , Survive, Repeat.
 
 <!---
 riddhimaa13/riddhimaa13 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
