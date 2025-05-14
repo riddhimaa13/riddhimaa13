@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riddhimaa13
-- 👀 I’m currently interested in FULL web DEVELOPMENT.
+- 👀 I’m currently interested in FULL STACK DEVELOPMENT.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: My email: riddhiagg1302@gmail.com
